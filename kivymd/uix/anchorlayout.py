@@ -25,7 +25,7 @@ AnchorLayout
 
 .. code-block::
 
-    MDBoxLayout:
+    MDAnchorLayout:
         md_bg_color: app.theme_cls.primary_color
 
 Available options are:
